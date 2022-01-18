@@ -13,4 +13,13 @@
 
 상기 3개의 정보를 본인의 Gmail smtp로 입력해야 합니다.
 
+<br>
+
+🔌 [GPIO 번호 수정]
+1. 모터
+2. LED
+3. 카메라
+
+입력 · 출력핀 번호를 본인의 세팅에 맞게 수정해야 합니다.
+
 ![실행영상](https://user-images.githubusercontent.com/45157347/149881043-1a0f0c1d-5cb6-404f-b6f2-171db128ea9b.gif)
